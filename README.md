@@ -1,6 +1,6 @@
-#refactoring code for Horiseon Social Solutions
+# refactoring code for Horiseon Social Solutions
 
-##Description 
+## Description 
 Project 1 requested students refactor code to improve accessibility for the Horiseon sample site. 
 
 *Fixed broken nav link
